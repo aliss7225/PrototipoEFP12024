@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1716998587 source:c:\users\gaby\desktop\examen final\prototipoefp12024\prototipoefp12024\src\asignaciom_de_resultados.cpp
+	"asignaciom_de_resultados.h"
+
+1716998587 c:\users\gaby\desktop\examen final\prototipoefp12024\prototipoefp12024\include\asignaciom_de_resultados.h
+
+1716998536 source:c:\users\gaby\desktop\examen final\prototipoefp12024\prototipoefp12024\src\bitacora.cpp
+	<cstring>
+	"Bitacora.h"
+	"Login.h"
+
+1716998646 c:\users\gaby\desktop\examen final\prototipoefp12024\prototipoefp12024\include\bitacora.h
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+	<cstring>
+
+1716998549 c:\users\gaby\desktop\examen final\prototipoefp12024\prototipoefp12024\include\login.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	<cstring>
+	"Bitacora.h"
+
+1717000532 source:c:\users\gaby\desktop\examen final\prototipoefp12024\prototipoefp12024\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<unistd.h>
+	"Bitacora.h"
+	"Login.h"
+	"Entrenador.h"
+	"asignaciom_de_resultados.h"
+
+1716998391 c:\users\gaby\desktop\examen final\prototipoefp12024\prototipoefp12024\include\entrenador.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<Entrenador.h>
+
+1716998828 source:c:\users\gaby\desktop\examen final\prototipoefp12024\prototipoefp12024\src\usuarios.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"usuarios.h"
+	"Login.h"
+	"Bitacora.h"
+
+1716998828 c:\users\gaby\desktop\examen final\prototipoefp12024\prototipoefp12024\include\usuarios.h
+	<iostream>
+
